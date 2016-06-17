@@ -1,5 +1,5 @@
 {
-    "name": "toadgg/lumen-api-starter",
+    "name": "alustau/lumen-api-starter",
     "description": "A Backbone Framework Integration Lumen Dingoapi Oauth2.",
     "keywords": ["framework", "laravel", "lumen", "oauth2", "dingoapi", "oauth2-server"],
     "license": "MIT",
